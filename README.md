@@ -56,8 +56,12 @@ currently_learning: Always evolving 🚀
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinigg2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinigg2&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117"/>
+  <a href="https://github.com/vinigg2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinigg2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/vinigg2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinigg2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
 <div align="center">
@@ -73,7 +77,11 @@ currently_learning: Always evolving 🚀
 ## 🐍 Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vinigg2/vinigg2/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinigg2/vinigg2/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinigg2/vinigg2/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/vinigg2/vinigg2/output/github-snake.svg" />
+  </picture>
 </div>
 
 ## 📫 Connect with me
